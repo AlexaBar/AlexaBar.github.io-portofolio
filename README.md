@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- Links
+- [Github Repository](https://github.com/AlexaBar/ONL_FER_E_05_Final_project_AlexandraBarbu)
 
 ### Project 2
 - Description
