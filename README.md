@@ -7,7 +7,7 @@
 
 ### Project 2
 - Description
-- Links
+- [Github Repository](https://alexabar.github.io/wewantwaste-skip-redesign.github.io)
 
 # Education
 -Some cool university
