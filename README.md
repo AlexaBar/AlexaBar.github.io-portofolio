@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- [Github Repository](https://github.com/AlexaBar/ONL_FER_E_05_Final_project_AlexandraBarbu)
+- [Github Repository](https://alexabar.github.io/Ecommerce-github.io/blog.html)
 
 ### Project 2
 - Description
